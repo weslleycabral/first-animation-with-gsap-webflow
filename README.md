@@ -1,2 +1,3 @@
-# first-animation-with-gsap-webflow
-Created with CodeSandbox
+# My first animation with GSAP/Webflow
+
+Hello! My name's Weslley, welcome to my repositore.
